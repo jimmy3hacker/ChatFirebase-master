@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Friendly</string>
+    <string name="send">Send</string>
+    <string name="enter_text">enter text</string>
+</resources>
